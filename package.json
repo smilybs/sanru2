@@ -1,0 +1,14 @@
+{
+  "name": "soury",
+  "version": "1.0.0",
+  "description": "Testing",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'no build step'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
